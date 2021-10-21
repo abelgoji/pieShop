@@ -1,2 +1,2 @@
 # pieShop
-Bethany's Simple Pie Shop. Few Java Script implemented  upon navigating order page 
+Bethany's Simple Pie Shop. Few Java Script implemented  on order page 
